@@ -57,7 +57,7 @@ npm install
 Create a `.env` file in the root directory and add the following:
 
 ```env
-API_URL=https://your-api-endpoint.com
+VITE_API_URL=https://your-api-endpoint.com
 ```
 
 ### 5. Start the Development Server
